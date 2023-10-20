@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d16f642d-a1ee-4a20-90a8-99185c304c87" name="Changes" comment="EXER2" />
+    <list default="true" id="d16f642d-a1ee-4a20-90a8-99185c304c87" name="Changes" comment="EXER2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumberManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +61,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/44382/Desktop/FT7_EX2/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.NumberTest">
     <configuration name="NumberManagerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -82,8 +86,18 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="NumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FT7_EX2.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberTest" />
         <item itemvalue="Gradle.NumberManagerTest" />
       </list>
     </recent_temporary>
@@ -105,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697793931209</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="EXER2">
+      <option name="closed" value="true" />
+      <created>1697794922766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697794922766</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
