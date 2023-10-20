@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NumberManagerTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2023-10-16T14:45:33" hostname="PC41603" time="0.113">
+  <properties/>
+  <testcase name="[1] 3" classname="NumberManagerTest" time="0.028"/>
+  <testcase name="[2] 23" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[3] 311" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[4] 487" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[5] 653" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[6] 947" classname="NumberManagerTest" time="0.0"/>
+  <testcase name="[1] 32" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[2] 64" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[3] 2" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[4] 20" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[5] 30" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[6] 26" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[1] 23, 23" classname="NumberManagerTest" time="0.002"/>
+  <testcase name="[2] 46, 23" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[3] 115, 23" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[4] 184, 23" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[5] 207, 23" classname="NumberManagerTest" time="0.001"/>
+  <testcase name="[6] 230, 23" classname="NumberManagerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
